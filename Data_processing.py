@@ -245,9 +245,9 @@ test_data.fillna(test_data.median(), inplace=True)
 train_data.fillna(train_data.median(), inplace=True)
 
 #On sauvgarde les fichiers 
-test_data.to_csv(r'test_data75.csv', index = False)
-train_data.to_csv(r'train_data75.csv', index = False)
-y_train.to_csv(r'y_train75.csv', index = False)
+test_data.to_csv(r'test_data.csv', index = False)
+train_data.to_csv(r'train_data.csv', index = False)
+y_train.to_csv(r'y_train.csv', index = False)
 
 
 
