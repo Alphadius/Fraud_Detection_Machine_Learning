@@ -10,7 +10,7 @@ Il nous était demandé de réaliser ce projet sans Utiliser de BOOSTING
 
 ## Auteurs
 
-* **Alexandre PREVAUT** _alias_ [@DEICIDIA](https://github.com/DEICIDIA)
+* **Alexandre PREVAUT** _alias_ [@DEICIDIA](https://github.com/AlexPrevot)
 * **Mathieu AUBRY** _alias_ [@Rysekk](https://github.com/rezatera854)
 * **Paul BOURMAUD** _alias_ [@Alphadius](https://github.com/Alphadius)
 * **Romain** _alias_ [@?](https://github.com/Alphadius)
