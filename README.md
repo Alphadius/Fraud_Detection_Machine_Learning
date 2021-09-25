@@ -5,7 +5,7 @@ https://www.kaggle.com/c/ieee-fraud-detection/
 
 Projet fait dans le cardre de notre matière Apprentissage Automatique (APPAUTO)
 
-Il nous était demandé de réaliser ce projet sans Utiliser de BOOSTING
+Il nous a été demandé de réaliser ce projet sans Utiliser de BOOSTING
 
 
 ## Auteurs
